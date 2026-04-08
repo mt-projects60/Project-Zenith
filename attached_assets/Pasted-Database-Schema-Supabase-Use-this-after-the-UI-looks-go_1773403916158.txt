@@ -1,0 +1,64 @@
+Database Schema (Supabase)
+Use this after the UI looks good and you are ready to connect a real backend.
+> Act as an Expert Supabase & PostgreSQL Architect.
+> We are continuing to build StartID, the capital-focused startup discovery platform. Currently, the UI is built with mock data. Now, we need to design the database schema using Supabase.
+> Core Requirement:
+> The database must strictly support the 4 user roles (Startup, Investor, Service Provider, Enthusiast) and keep capital flow as the central entity.
+> Please write the SQL schema (tables, relationships, and Row Level Security policies) for the following:
+>  * Users Table: Extending Supabase Auth to include a role enum (STARTUP, INVESTOR, PROVIDER, ENTHUSIAST).
+>  * Startups Table: The core entity. Needs fields for slug, name, one-line pitch, stage, industry, location, founded_year, target_raise, committed_amount, valuation, round_type, etc.
+>  * Startup_Metrics Table: Linked to Startups (MRR, ARR, growth_percent, CAC, burn, runway).
+>  * Startup_Team Table: Linked to Startups (name, role, linkedin_url, bio).
+>  * Investors Table: Linked to Users (firm_name, check_size_range, stage_focus, industry_focus).
+>  * Interactions Table: A polymorphic table to handle state between users and startups. Types should include: UPVOTE, BOOKMARK, EXPRESS_INTEREST, DATA_ROOM_REQUEST.
+> Ensure you include basic Row Level Security (RLS) policies. For example: Startups can edit their own profiles, but anyone can read public startup profiles. Gated documents should only be accessible if an Interactions row exists where DATA_ROOM_REQUEST is APPROVED.
+> Provide the SQL setup script and explain the relationships briefly.
+> 
+Founder Dashboard
+Use this once the database is connected and a startup user can log in.
+> Act as an Expert Next.js Developer.
+> Let's build the Founder Dashboard for StartID at the route /founder/dashboard. This is a private, gated area for logged-in Startup founders. The UI must be clean, fast, and feel like high-end financial software.
+> Build a sidebar navigation for the dashboard with the following tabs, and implement the "Overview" page first:
+> 1. Overview (Default View):
+>  * Top row widgets: Profile Completion %, Total Funding Progress ($ Raised / $ Target), Pending Investor Requests.
+>  * Recent Activity Feed: "Investor X requested Data Room access", "Investor Y bookmarked your profile."
+> 2. Manage Profile (UI form):
+>  * Create a comprehensive form to edit all the data on the Public Startup Profile (Hero info, metrics, business model, team members).
+>  * Include sections to upload URLs for Pitch Deck (Drive link) and Pitch Video (YouTube link).
+> 3. Investor Pipeline (Kanban or Table):
+>  * A view showing investors who have expressed interest or requested the data room.
+>  * Include a toggle switch for the founder to "Approve" or "Deny" data room access for specific investors.
+> Please write the Next.js page structure, the sidebar layout, and the mock UI for the Overview tab.
+> 
+Investor Dashboard
+Use this to build the capital-deployer side of the app.
+> Act as an Expert Next.js Developer.
+> Let's build the Investor Dashboard for StartID at the route /investor/dashboard. This must feel like a lightweight, professional deal-flow management tool.
+> Build a sidebar navigation with the following structure, and implement the UI using mock data:
+> 1. Overview:
+>  * Widgets: Active Raising Startups in preferred sectors, New Profiles this week, Pending Data Room Approvals.
+> 2. Discover (Advanced Search):
+>  * A data table view of startups with advanced filtering.
+>  * Filters must include: Stage, Industry, Revenue Range, Raising Status, % Funded, Instrument Type.
+> 3. Deal Flow Pipeline (Kanban Board):
+>  * Columns: Bookmarked -> Reviewing -> In Conversation -> Interested -> Invested -> Passed.
+>  * Cards in the Kanban should show the Startup Name, Target Raise, and current % Funded.
+> 4. Commitments:
+>  * A simple ledger table showing: Startup Name, Amount Committed, Round Type, Date, Status.
+> Please build the layout shell and the Kanban board UI for the Deal Flow Pipeline first.
+> 
+Service Provider & Enthusiast Dashboards
+Use this to wrap up the secondary user experiences.
+> Act as an Expert Next.js Developer.
+> Let's build the lightweight dashboards for our two supporting roles in StartID. Both should be simple, clean, and secondary to the capital flow features.
+> Task 1: Service Provider Dashboard (/provider/dashboard)
+>  * Purpose: A B2B lead engine.
+>  * Overview Metrics: Profile Views, Inbound Requests.
+>  * Manage Profile Form: Edit Company Name, Category (Legal, Tech, etc.), One-line value prop, Pricing Model.
+>  * Leads Table: A simple table showing Startups that have reached out for services, with status tracking (New, Replied, Closed).
+> Task 2: Enthusiast Dashboard (/community/dashboard)
+>  * Purpose: Community engagement and distribution.
+>  * Strict Rule: Absolutely no deal pipeline or capital tools.
+>  * Features: A feed of "Startups Followed", a list of "Upcoming Pitch Events / Demo Days" with an RSVP button, and a grid of "Recommended Startups" based on their interests.
+> Please generate the Next.js layouts and basic UI components for these two routes.
+> 

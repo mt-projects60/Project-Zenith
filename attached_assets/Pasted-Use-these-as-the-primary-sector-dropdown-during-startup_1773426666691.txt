@@ -1,0 +1,208 @@
+Use these as the primary sector dropdown during startup signup.
+
+1. Artificial Intelligence & Machine Learning
+	•	AI infrastructure
+	•	Generative AI
+	•	AI applications
+	•	Computer vision
+	•	NLP
+
+⸻
+
+2. Fintech
+	•	Payments
+	•	Lending
+	•	Wealthtech
+	•	Insurtech
+	•	Banking infrastructure
+	•	Crypto / Web3 finance
+
+⸻
+
+3. SaaS / Enterprise Software
+	•	Workflow tools
+	•	CRM
+	•	HR tech
+	•	Dev tools
+	•	Productivity software
+
+⸻
+
+4. Healthtech & Biotech
+	•	Digital health
+	•	Telemedicine
+	•	Diagnostics
+	•	Biotech
+	•	Medical devices
+
+⸻
+
+5. Climate & CleanTech
+	•	Renewable energy
+	•	Carbon capture
+	•	Climate SaaS
+	•	Energy storage
+	•	Sustainable materials
+
+⸻
+
+6. Consumer / D2C
+	•	Consumer brands
+	•	Subscription products
+	•	Personal care
+	•	Lifestyle products
+
+⸻
+
+7. E-commerce & Marketplaces
+	•	Vertical marketplaces
+	•	Cross-border commerce
+	•	Social commerce
+	•	Logistics tech
+
+⸻
+
+8. Mobility & Transportation
+	•	EV technology
+	•	Fleet management
+	•	Autonomous vehicles
+	•	Urban mobility
+
+⸻
+
+9. Logistics & Supply Chain
+	•	Freight tech
+	•	Warehouse automation
+	•	Trade infrastructure
+	•	Last-mile delivery
+
+⸻
+
+10. EdTech
+	•	Online learning
+	•	Skill platforms
+	•	Workforce education
+	•	AI tutoring
+
+⸻
+
+11. AgriTech & FoodTech
+	•	Precision agriculture
+	•	Food innovation
+	•	Supply chain
+	•	Alternative proteins
+
+⸻
+
+12. Cybersecurity
+	•	Identity security
+	•	Cloud security
+	•	Fraud detection
+	•	Privacy infrastructure
+
+⸻
+
+13. Web3 / Blockchain
+	•	DeFi
+	•	Infrastructure
+	•	Digital identity
+	•	Tokenization
+
+⸻
+
+14. Robotics & Hardware
+	•	Industrial robotics
+	•	Drones
+	•	Automation systems
+	•	IoT devices
+
+⸻
+
+15. DeepTech
+	•	Quantum
+	•	Space tech
+	•	Advanced materials
+	•	Semiconductor innovation
+
+⸻
+
+16. Creator Economy & Media
+	•	Creator tools
+	•	Digital media
+	•	Content platforms
+	•	Social tech
+
+⸻
+
+17. Travel & Hospitality Tech
+	•	Booking platforms
+	•	Travel infrastructure
+	•	Experience platforms
+
+⸻
+
+18. GovTech / Public Infrastructure
+	•	Civic platforms
+	•	Public data
+	•	Digital governance
+
+⸻
+
+🧠 Recommended Signup UX
+
+In the signup form:
+
+Sector (Required)
+
+Dropdown → select one primary sector.
+
+Subsector (Optional)
+
+Dynamic dropdown based on sector.
+
+Tags (Optional)
+
+3–5 keywords.
+
+Example:
+
+Sector
+Fintech
+
+Subsector
+Payments
+
+Tags
+Cross-border payments, B2B fintech
+
+⸻
+
+🌟 Additional Fields That Help Investors Filter
+
+Add these fields next to sector:
+
+Startup Stage
+	•	Idea
+	•	Pre-seed
+	•	Seed
+	•	Series A
+	•	Series B+
+	•	Growth
+
+⸻
+
+Business Model
+	•	SaaS
+	•	Marketplace
+	•	D2C
+	•	Hardware
+	•	Fintech
+	•	API / Infrastructure
+
+⸻
+
+Customer Type
+	•	B2B
+	•	B2C
+	•	B2B2C
+	•	Government

@@ -1,0 +1,1779 @@
+Add LinkedIn profile as optional but recommend on each profile category 
+
+Also refine profile signups and page creations questions 
+
+Use these as the primary sector dropdown during startup signup and profile creation always have option to choose other and then a text box should appear when other is chosen 
+
+1. Artificial Intelligence & Machine Learning
+	•	AI infrastructure
+	•	Generative AI
+	•	AI applications
+	•	Computer vision
+	•	NLP
+
+⸻
+
+2. Fintech
+	•	Payments
+	•	Lending
+	•	Wealthtech
+	•	Insurtech
+	•	Banking infrastructure
+	•	Crypto / Web3 finance
+
+⸻
+
+3. SaaS / Enterprise Software
+	•	Workflow tools
+	•	CRM
+	•	HR tech
+	•	Dev tools
+	•	Productivity software
+
+⸻
+
+4. Healthtech & Biotech
+	•	Digital health
+	•	Telemedicine
+	•	Diagnostics
+	•	Biotech
+	•	Medical devices
+
+⸻
+
+5. Climate & CleanTech
+	•	Renewable energy
+	•	Carbon capture
+	•	Climate SaaS
+	•	Energy storage
+	•	Sustainable materials
+
+⸻
+
+6. Consumer / D2C
+	•	Consumer brands
+	•	Subscription products
+	•	Personal care
+	•	Lifestyle products
+
+⸻
+
+7. E-commerce & Marketplaces
+	•	Vertical marketplaces
+	•	Cross-border commerce
+	•	Social commerce
+	•	Logistics tech
+
+⸻
+
+8. Mobility & Transportation
+	•	EV technology
+	•	Fleet management
+	•	Autonomous vehicles
+	•	Urban mobility
+
+⸻
+
+9. Logistics & Supply Chain
+	•	Freight tech
+	•	Warehouse automation
+	•	Trade infrastructure
+	•	Last-mile delivery
+
+⸻
+
+10. EdTech
+	•	Online learning
+	•	Skill platforms
+	•	Workforce education
+	•	AI tutoring
+
+⸻
+
+11. AgriTech & FoodTech
+	•	Precision agriculture
+	•	Food innovation
+	•	Supply chain
+	•	Alternative proteins
+
+⸻
+
+12. Cybersecurity
+	•	Identity security
+	•	Cloud security
+	•	Fraud detection
+	•	Privacy infrastructure
+
+⸻
+
+13. Web3 / Blockchain
+	•	DeFi
+	•	Infrastructure
+	•	Digital identity
+	•	Tokenization
+
+⸻
+
+14. Robotics & Hardware
+	•	Industrial robotics
+	•	Drones
+	•	Automation systems
+	•	IoT devices
+
+⸻
+
+15. DeepTech
+	•	Quantum
+	•	Space tech
+	•	Advanced materials
+	•	Semiconductor innovation
+
+⸻
+
+16. Creator Economy & Media
+	•	Creator tools
+	•	Digital media
+	•	Content platforms
+	•	Social tech
+
+⸻
+
+17. Travel & Hospitality Tech
+	•	Booking platforms
+	•	Travel infrastructure
+	•	Experience platforms
+
+⸻
+
+18. GovTech / Public Infrastructure
+	•	Civic platforms
+	•	Public data
+	•	Digital governance
+
+⸻
+
+🧠 Recommended Signup UX
+
+In the signup form:
+
+Sector (Required)
+
+Dropdown → select one primary sector.
+
+Subsector (Optional)
+
+Dynamic dropdown based on sector.
+
+Tags (Optional)
+
+3–5 keywords.
+
+Example:
+
+Sector
+Fintech
+
+Subsector
+Payments
+
+Tags
+Cross-border payments, B2B fintech
+
+⸻
+
+🌟 Additional Fields That Help Investors Filter
+
+Add these fields next to sector:
+
+Startup Stage
+	•	Idea
+	•	Pre-seed
+	•	Seed
+	•	Series A
+	•	Series B+
+	•	Growth
+
+⸻
+
+Business Model
+	•	SaaS
+	•	Marketplace
+	•	D2C
+	•	Hardware
+	•	Fintech
+	•	API / Infrastructure
+
+⸻
+
+Customer Type
+	•	B2B
+	•	B2C
+	•	B2B2C
+	•	Government
+
+INVESTOR PROFILE
+
+Section Title
+
+Investor Information
+
+Investor Type
+Dropdown
+
+Options:
+	•	Angel Investor
+	•	Venture Capital
+	•	Family Office
+	•	Corporate Venture
+	•	Syndicate Lead
+	•	Fund Manager
+	•	Scout
+	•	Investment Platform
+	•	Other
+
+⸻
+
+Organization / Fund Name
+Optional
+
+⸻
+
+Your Role
+
+Examples:
+	•	Partner
+	•	Principal
+	•	Associate
+	•	Angel Investor
+	•	Founder investing
+
+⸻
+
+🔵 STEP 3 — INVESTMENT PREFERENCES
+
+Section Title
+
+Investment Focus
+
+Preferred Stages
+Multi-select
+
+Options:
+	•	Pre-seed
+	•	Seed
+	•	Series A
+	•	Series B+
+	•	Growth
+
+⸻
+
+Industries of Interest
+Multi-select
+
+Use your sector taxonomy.
+
+Examples:
+	•	AI
+	•	Fintech
+	•	SaaS
+	•	Climate
+	•	Healthtech
+	•	Consumer
+	•	Logistics
+	•	Cybersecurity
+	•	DeepTech
+	•	Web3
+
+⸻
+
+Geographies Investing In
+Multi-select
+
+Examples:
+	•	North America
+	•	Europe
+	•	Asia-Pacific
+	•	India
+	•	MENA
+	•	Africa
+	•	Latin America
+
+⸻
+
+Typical Check Size
+
+Two fields:
+
+Minimum check
+Maximum check
+
+Currency selector (USD default)
+
+Example:
+
+Min: $10,000
+Max: $250,000
+
+For service provider ACCOUNT INFORMATION
+
+Section Title
+
+Create Your Account
+
+Fields:
+
+First Name
+
+Last Name
+
+Work Email
+
+Password
+
+Requirements:
+	•	Minimum 8 characters
+
+⸻
+
+LinkedIn Profile
+
+(Optional but recommended)
+
+⸻
+
+🔵 STEP 2 — COMPANY INFORMATION
+
+Section Title
+
+Service Provider Profile
+
+Company Name
+
+Company Website
+
+Headquarters Location
+
+Fields:
+
+City
+Country
+
+⸻
+
+Company Size
+
+Dropdown:
+	•	Solo Consultant
+	•	2–10 employees
+	•	11–50 employees
+	•	50–200 employees
+	•	200+
+
+⸻
+
+🟠 STEP 3 — SERVICE CATEGORY
+
+Section Title
+
+What services do you provide?
+
+Multi-select.
+
+Categories:
+	•	Legal & Corporate Structuring
+	•	Startup Compliance & Regulatory
+	•	Accounting & Tax Advisory
+	•	Fundraising Advisory
+	•	Pitch Deck & Storytelling
+	•	Branding & Marketing
+	•	Product Development
+	•	Software Development
+	•	Hiring & Talent
+	•	PR & Media
+	•	Growth Marketing
+	•	Sales Enablement
+	•	Venture Debt / Capital Advisory
+	•	Grant Advisory
+	•	International Expansion
+	•	Banking & Payment Infrastructure
+
+Allow selecting up to 5 categories.
+
+⸻
+
+🟤 STEP 4 — SERVICE DETAILS
+
+Section Title
+
+Describe Your Services
+
+One-line Value Proposition
+
+Example placeholder:
+
+“Legal and compliance support for early-stage startups raising venture capital.”
+
+Max 140 characters.
+
+⸻
+
+Service Description
+
+Short paragraph.
+
+Max 500 characters.
+
+⸻
+
+Startup Stages You Work With
+
+Multi-select:
+	•	Idea
+	•	Pre-seed
+	•	Seed
+	•	Series A
+	•	Series B+
+	•	Growth
+
+⸻
+
+Industries You Specialize In
+
+Multi-select sectors:
+	•	AI
+	•	Fintech
+	•	SaaS
+	•	Healthtech
+	•	Climate
+	•	Consumer
+	•	Logistics
+	•	Web3
+	•	DeepTech
+	•	Mobility
+
+⸻
+
+🔴 STEP 5 — GEOGRAPHY
+
+Section Title
+
+Where do you operate?
+
+Multi-select.
+
+Options:
+	•	North America
+	•	Europe
+	•	Asia-Pacific
+	•	India
+	•	Middle East
+	•	Africa
+	•	Latin America
+	•	Global (Remote)
+
+This helps founders filter providers.
+
+⸻
+
+🟢 STEP 6 — CREDIBILITY
+
+Section Title
+
+Experience & Social Proof
+
+Notable Clients
+
+Optional field.
+
+Example:
+
+Stripe, Notion, Razorpay
+
+⸻
+
+Case Study / Example Work
+
+Short description.
+
+Optional.
+
+⸻
+
+Years Supporting Startups
+
+Dropdown:
+	•	0–2
+	•	3–5
+	•	6–10
+	•	10+
+
+
+Great question.
+If you want the platform to feel credible and high-signal, every profile type should only become “Active / Discoverable” after reaching a minimum completeness level.
+
+Think of it like LinkedIn profile strength, but designed for a startup ecosystem.
+
+A good rule: 70–80% completion required to activate profile.
+
+Below is a complete activation checklist for each profile type.
+
+⸻
+
+🌍 GLOBAL PROFILE ACTIVATION SYSTEM
+
+Each profile has:
+	•	Draft → profile being built
+	•	Incomplete → below activation threshold
+	•	Active → visible in discovery
+	•	Verified (future feature)
+
+⸻
+
+🟢 STARTUP PROFILE ACTIVATION REQUIREMENTS
+
+Startup profiles are the core of the platform, so the requirements should be stricter.
+
+Basic Identity
+
+Required fields:
+	•	Startup Name
+	•	Logo
+	•	One-line Pitch
+	•	Industry / Sector
+	•	Startup Stage
+	•	City
+	•	Country
+	•	Founded Year
+	•	Website
+
+⸻
+
+Startup Overview
+
+Required:
+	•	Problem statement
+	•	Solution description
+	•	Market opportunity (TAM / SAM / SOM)
+
+Optional but recommended:
+	•	Why Now
+
+⸻
+
+Traction / Metrics
+
+One of the following must be filled:
+
+Option A (Revenue stage)
+	•	MRR or ARR
+	•	Growth rate
+
+Option B (Pre-revenue)
+	•	Total users
+	•	Key milestone
+
+⸻
+
+Team
+
+Minimum:
+	•	At least 1 founder profile
+
+Each founder must include:
+	•	Name
+	•	Role
+	•	LinkedIn profile
+	•	Short bio
+
+⸻
+
+Funding Round
+
+Required to activate:
+	•	Round Type
+	•	Target Raise
+	•	Funding Instrument (SAFE / Equity etc)
+
+Optional but recommended:
+	•	Valuation
+	•	Minimum ticket size
+	•	Close date
+
+⸻
+
+Documents
+
+At least 1 pitch asset required
+
+Options:
+	•	Pitch Deck
+OR
+	•	Pitch Video
+
+Optional:
+	•	Financial Model
+	•	Data Room
+	•	Cap Table
+
+⸻
+
+Final Activation Rule
+
+Startup profile becomes Active when:
+
+✔ 80% profile completion
+✔ At least 1 founder added
+✔ Funding round created
+✔ Pitch deck uploaded
+
+⸻
+
+🔵 INVESTOR PROFILE ACTIVATION REQUIREMENTS
+
+Investors should have lighter requirements but still enough data for trust.
+
+⸻
+
+Basic Identity
+
+Required:
+	•	First Name
+	•	Last Name
+	•	Email
+	•	LinkedIn profile
+
+⸻
+
+Investor Profile
+
+Required:
+	•	Investor Type
+	•	Organization / Fund name (optional for angels)
+	•	Role / Title
+
+⸻
+
+Investment Preferences
+
+Required:
+	•	Preferred stages
+	•	Preferred industries
+	•	Check size range
+
+⸻
+
+Geography
+
+Required:
+	•	Countries / Regions investing in
+
+⸻
+
+Optional but Recommended
+	•	Investment thesis
+	•	Portfolio companies
+
+⸻
+
+Activation Rule
+
+Investor profile becomes Active when:
+
+✔ LinkedIn added
+✔ Investment preferences filled
+✔ Check size provided
+
+⸻
+
+🟣 SERVICE PROVIDER ACTIVATION REQUIREMENTS
+
+This profile type should feel professional and credible.
+
+⸻
+
+Company Identity
+
+Required:
+	•	Company name
+	•	Website
+	•	Location (City + Country)
+	•	Company logo
+
+⸻
+
+Services
+
+Required:
+	•	Service categories (minimum 1)
+	•	One-line value proposition
+
+⸻
+
+Service Details
+
+Required:
+	•	Service description
+	•	Startup stages supported
+
+⸻
+
+Coverage
+
+Required:
+	•	Geography served
+
+Example:
+
+Global / North America / Europe / India etc.
+
+⸻
+
+Credibility
+
+Required:
+
+One of the following:
+	•	Years of experience
+OR
+	•	Notable clients
+OR
+	•	Case study
+
+⸻
+
+Contact Method
+
+Required:
+
+Choose one:
+	•	Platform messages
+	•	Email contact
+	•	Consultation booking link
+
+⸻
+
+Activation Rule
+
+Provider profile becomes Active when:
+
+✔ Service category selected
+✔ Description added
+✔ Contact method enabled
+
+⸻
+
+🟡 STARTUP ENTHUSIAST PROFILE ACTIVATION
+
+This role is community-focused, so the requirements are minimal.
+
+⸻
+
+Basic Identity
+
+Required:
+	•	Name
+	•	Email
+	•	Location
+
+⸻
+
+Interests
+
+Required:
+
+Select at least:
+	•	3 industries of interest
+
+Example:
+
+AI
+Fintech
+Climate
+SaaS
+
+⸻
+
+Optional
+	•	LinkedIn profile
+	•	Bio
+	•	Role (Student / Analyst / Scout)
+
+⸻
+
+Activation Rule
+
+Profile becomes Active when:
+
+✔ At least 3 interests selected
+
+⸻
+
+🌟 GLOBAL PROFILE COMPLETION SYSTEM
+
+Each profile should show:
+
+Profile Strength Meter
+
+Example:
+
+Profile Completion: 72%
+
+Tasks to finish:
+
+✔ Add pitch deck
+✔ Add funding round
+✔ Add founder profile
+
+This increases completion rates massively.
+
+⸻
+
+🔒 TRUST LAYER (Future)
+
+Add optional verification levels:
+
+Verified Startup
+
+Documents checked.
+
+Verified Investor
+
+Identity confirmed.
+
+Verified Provider
+
+Company credentials verified.
+
+This becomes a trust moat later.
+
+⸻
+
+⚠️ Critical Platform Rule
+
+Profiles below activation threshold should:
+
+❌ Not appear in discover
+❌ Not appear in search
+❌ Not be shareable publicly
+
+Only Active profiles enter the ecosystem.
+
+This keeps platform quality extremely high.
+
+⸻
+
+🚀 Pro Move (Highly Recommended)
+
+When someone completes their profile:
+
+Show a shareable link:
+
+Example:
+
+platform.com/startups/zenpay
+
+Then prompt:
+
+Share your profile with investors
+
+This helps distribution.
+
+⸻
+
+Alright, let’s design a clean, scalable database schema that supports all four user types on your platform:
+	•	Startups (Founders)
+	•	Investors
+	•	Service Providers
+	•	Startup Enthusiasts
+
+This schema is structured for PostgreSQL + Prisma / SQL style, and it’s designed so the platform can scale globally without needing a major rebuild later.
+
+The philosophy:
+👉 One unified user system + role-specific profile tables.
+
+⸻
+
+🧩 CORE ARCHITECTURE
+
+Users (base identity)
+│
+├── Founder Profiles
+│   └── Startups
+│       ├── Startup Overview
+│       ├── Metrics
+│       ├── Funding Rounds
+│       ├── Documents
+│       └── Team
+│
+├── Investor Profiles
+│
+├── Service Provider Profiles
+│
+└── Enthusiast Profiles
+
+This allows a single login system, but different profile types.
+
+⸻
+
+1️⃣ USERS TABLE (Core Identity)
+
+users
+
+Field	Type	Notes
+id	UUID (PK)	unique user id
+email	VARCHAR	unique
+password_hash	TEXT	bcrypt
+role	ENUM	founder, investor, provider, enthusiast, admin
+first_name	VARCHAR	
+last_name	VARCHAR	
+linkedin_url	TEXT	
+profile_photo	TEXT	
+country	VARCHAR	
+city	VARCHAR	
+timezone	VARCHAR	
+is_email_verified	BOOLEAN	
+profile_status	ENUM	draft, incomplete, active, suspended
+created_at	TIMESTAMP	
+updated_at	TIMESTAMP	
+
+
+⸻
+
+2️⃣ FOUNDER PROFILE
+
+founder_profiles
+
+Field	Type
+id	UUID
+user_id	FK users.id
+bio	TEXT
+previous_startups	TEXT
+years_experience	INT
+created_at	TIMESTAMP
+
+
+⸻
+
+3️⃣ STARTUPS TABLE
+
+Each founder can create a startup.
+
+startups
+
+Field	Type
+id	UUID
+owner_id	FK founder_profiles.id
+name	VARCHAR
+slug	VARCHAR UNIQUE
+logo_url	TEXT
+cover_image_url	TEXT
+one_line_pitch	VARCHAR(160)
+industry	VARCHAR
+sub_industry	VARCHAR
+stage	ENUM
+website_url	TEXT
+city	VARCHAR
+country	VARCHAR
+founded_year	INT
+team_size	INT
+is_published	BOOLEAN
+created_at	TIMESTAMP
+updated_at	TIMESTAMP
+
+
+⸻
+
+4️⃣ STARTUP OVERVIEW
+
+startup_overview
+
+Field	Type
+id	UUID
+startup_id	FK startups.id
+problem	TEXT
+solution	TEXT
+why_now	TEXT
+tam	DECIMAL
+sam	DECIMAL
+som	DECIMAL
+market_source_url	TEXT
+
+
+⸻
+
+5️⃣ STARTUP TEAM
+
+startup_team
+
+Field	Type
+id	UUID
+startup_id	FK startups.id
+name	VARCHAR
+role	VARCHAR
+linkedin_url	TEXT
+bio	TEXT
+photo_url	TEXT
+is_founder	BOOLEAN
+
+
+⸻
+
+6️⃣ STARTUP METRICS (Time Series)
+
+startup_metrics
+
+Field	Type
+id	UUID
+startup_id	FK startups.id
+month	DATE
+mrr	DECIMAL
+arr	DECIMAL
+revenue_growth_percent	DECIMAL
+total_users	INT
+active_users	INT
+cac	DECIMAL
+ltv	DECIMAL
+burn_rate	DECIMAL
+runway_months	INT
+created_at	TIMESTAMP
+
+Unique constraint: (startup_id, month)
+
+⸻
+
+7️⃣ FUNDING ROUNDS
+
+funding_rounds
+
+Field	Type
+id	UUID
+startup_id	FK startups.id
+round_type	ENUM
+target_raise	DECIMAL
+committed_amount	DECIMAL
+valuation	DECIMAL
+instrument_type	ENUM
+minimum_ticket	DECIMAL
+round_close_date	DATE
+currency	VARCHAR
+status	ENUM
+created_at	TIMESTAMP
+
+
+⸻
+
+8️⃣ USE OF FUNDS
+
+use_of_funds
+
+Field	Type
+id	UUID
+funding_round_id	FK funding_rounds.id
+category	ENUM
+percentage	DECIMAL
+
+
+⸻
+
+9️⃣ STARTUP DOCUMENTS
+
+documents
+
+Field	Type
+id	UUID
+startup_id	FK startups.id
+document_type	ENUM
+file_url	TEXT
+access_type	ENUM
+created_at	TIMESTAMP
+
+
+⸻
+
+🔟 INVESTOR PROFILE
+
+investor_profiles
+
+Field	Type
+id	UUID
+user_id	FK users.id
+investor_type	ENUM
+organization_name	VARCHAR
+role_title	VARCHAR
+investment_thesis	TEXT
+check_size_min	DECIMAL
+check_size_max	DECIMAL
+currency	VARCHAR
+is_verified	BOOLEAN
+created_at	TIMESTAMP
+
+
+⸻
+
+1️⃣1️⃣ INVESTOR PREFERENCES
+
+investor_preferences
+
+Field	Type
+id	UUID
+investor_id	FK investor_profiles.id
+preferred_stage	ENUM
+preferred_industry	VARCHAR
+preferred_region	VARCHAR
+
+
+⸻
+
+1️⃣2️⃣ INVESTOR–STARTUP RELATIONSHIP
+
+This powers deal pipelines.
+
+investor_startup_relationship
+
+Field	Type
+id	UUID
+investor_id	FK investor_profiles.id
+startup_id	FK startups.id
+pipeline_stage	ENUM
+interest_level	ENUM
+commitment_amount	DECIMAL
+created_at	TIMESTAMP
+
+
+⸻
+
+1️⃣3️⃣ ACCESS REQUESTS (Data Room)
+
+access_requests
+
+Field	Type
+id	UUID
+investor_id	FK investor_profiles.id
+startup_id	FK startups.id
+document_type	ENUM
+status	ENUM
+created_at	TIMESTAMP
+
+
+⸻
+
+1️⃣4️⃣ SERVICE PROVIDERS
+
+service_provider_profiles
+
+Field	Type
+id	UUID
+user_id	FK users.id
+company_name	VARCHAR
+website_url	TEXT
+company_size	ENUM
+value_proposition	VARCHAR
+service_description	TEXT
+years_experience	INT
+logo_url	TEXT
+created_at	TIMESTAMP
+
+
+⸻
+
+1️⃣5️⃣ PROVIDER SERVICES
+
+provider_services
+
+Field	Type
+id	UUID
+provider_id	FK service_provider_profiles.id
+category	VARCHAR
+industries_supported	VARCHAR
+startup_stage_supported	VARCHAR
+
+
+⸻
+
+1️⃣6️⃣ ENTHUSIAST PROFILES
+
+enthusiast_profiles
+
+Field	Type
+id	UUID
+user_id	FK users.id
+role_title	VARCHAR
+bio	TEXT
+interests	VARCHAR
+created_at	TIMESTAMP
+
+
+⸻
+
+1️⃣7️⃣ EVENTS / PITCH DAYS
+
+events
+
+Field	Type
+id	UUID
+startup_id	FK startups.id
+event_title	VARCHAR
+description	TEXT
+event_date	TIMESTAMP
+timezone	VARCHAR
+zoom_link	TEXT
+
+
+⸻
+
+1️⃣8️⃣ ACTIVITY LOGS
+
+Tracks actions on platform.
+
+activity_logs
+
+Field	Type
+id	UUID
+actor_id	FK users.id
+entity_type	VARCHAR
+entity_id	UUID
+action_type	VARCHAR
+metadata	JSONB
+created_at	TIMESTAMP
+
+
+⸻
+
+🌍 EVENT CREATION FLOW
+
+All profiles can create events:
+	•	Startups
+	•	Investors
+	•	Service Providers
+	•	Enthusiasts
+
+But events are categorized and moderated.
+
+⸻
+
+🟦 EVENT CREATION ENTRY POINT
+
+Button available in dashboard:
+
+Create Event
+
+Route:
+
+/events/create
+
+⸻
+
+STEP 1 — EVENT BASICS
+
+Section Title
+
+Event Overview
+
+Fields:
+
+Event Title
+Text field
+
+Example:
+“AI Startup Demo Day – April 2026”
+
+⸻
+
+Event Type
+
+Dropdown:
+	•	Demo Day
+	•	Pitch Event
+	•	Webinar
+	•	Workshop
+	•	Panel Discussion
+	•	Networking Event
+	•	AMA (Ask Me Anything)
+
+⸻
+
+Event Format
+
+Radio buttons:
+	•	Online
+	•	Offline
+	•	Hybrid
+
+⸻
+
+Event Category
+
+Multi-select:
+	•	Fundraising
+	•	Product
+	•	AI
+	•	Fintech
+	•	Climate
+	•	SaaS
+	•	Community
+	•	Hiring
+
+⸻
+
+STEP 2 — HOST INFORMATION
+
+Automatically filled from profile.
+
+Display:
+
+Host Name
+Host Organization
+Host Profile Link
+
+Optional field:
+
+Co-hosts
+
+Search users on platform.
+
+⸻
+
+STEP 3 — DATE & TIME
+
+Fields:
+
+Event Date
+
+Date picker
+
+⸻
+
+Start Time
+
+Time picker
+
+⸻
+
+End Time
+
+Time picker
+
+⸻
+
+Timezone
+
+Dropdown
+
+Example:
+
+UTC
+PST
+IST
+CET
+
+System converts for users automatically.
+
+⸻
+
+STEP 4 — EVENT LOCATION
+
+If ONLINE
+
+Fields:
+
+Platform
+
+Dropdown:
+	•	Zoom
+	•	Google Meet
+	•	Microsoft Teams
+	•	Custom link
+
+⸻
+
+Join Link
+
+URL field
+
+⸻
+
+Backup Link (optional)
+
+Optional.
+
+⸻
+
+If OFFLINE
+
+Fields:
+
+Venue Name
+
+Example:
+
+Startup Hub Berlin
+
+⸻
+
+Address
+
+Street
+City
+Country
+
+⸻
+
+Map Link
+
+Google Maps URL.
+
+⸻
+
+If HYBRID
+
+Show both:
+	•	Venue fields
+	•	Online link fields
+
+⸻
+
+STEP 5 — EVENT DESCRIPTION
+
+Section Title
+
+Event Details
+
+Fields:
+
+Short Description
+
+Max 160 characters.
+
+Example:
+
+“Pitch event featuring 10 AI startups raising Seed funding.”
+
+⸻
+
+Full Description
+
+Rich text field.
+
+Can include:
+	•	Agenda
+	•	Speakers
+	•	Sponsors
+
+⸻
+
+Event Agenda
+
+Structured list:
+
+Example:
+
+5:00 PM – Welcome
+5:10 PM – Startup Pitches
+6:00 PM – Investor Q&A
+
+⸻
+
+STEP 6 — SPEAKERS / PARTICIPANTS
+
+Add speakers.
+
+Fields per speaker:
+	•	Name
+	•	Title / Role
+	•	Organization
+	•	LinkedIn (optional)
+	•	Photo (optional)
+
+⸻
+
+STEP 7 — REGISTRATION SETTINGS
+
+Registration Required?
+
+Toggle:
+
+Yes / No
+
+If NO → open join link.
+
+If YES → registration form enabled.
+
+⸻
+
+Registration Fields
+
+Default fields:
+	•	Name
+	•	Email
+
+Optional:
+	•	Company
+	•	Role
+	•	Investor / Founder / Other
+	•	LinkedIn
+
+⸻
+
+Capacity Limit
+
+Example:
+
+100 attendees.
+
+⸻
+
+Approval Type
+
+Dropdown:
+	•	Auto approve
+	•	Host approval required
+
+⸻
+
+STEP 8 — ACCESS CONTROL
+
+Event visibility options:
+
+Public
+Platform users only
+Invite only
+
+⸻
+
+Invite-only option:
+
+Upload email list or send invites.
+
+⸻
+
+STEP 9 — EVENT MEDIA
+
+Upload:
+
+Event Banner
+
+Recommended size:
+1600 × 900
+
+⸻
+
+Optional:
+	•	Promo video
+	•	Sponsor logos
+
+⸻
+
+STEP 10 — EVENT PAGE PREVIEW
+
+System shows preview page:
+
+Example:
+
+platform.com/events/ai-demo-day-april
+
+Display:
+	•	Banner
+	•	Title
+	•	Date/time
+	•	Host
+	•	Description
+	•	Speakers
+	•	Join/Register button
+
+⸻
+
+STEP 11 — PUBLISH EVENT
+
+Button:
+
+Publish Event
+
+Event becomes visible in:
+	•	Discover Events
+	•	Community Page
+	•	Search
+
+⸻
+
+📄 PUBLIC EVENT PAGE STRUCTURE
+
+Route:
+
+/events/:slug
+
+Sections:
+
+Hero
+
+Event Title
+Banner
+Date & Time
+Location
+Host
+
+Buttons:
+
+Register
+Add to Calendar
+
+⸻
+
+Event Description
+
+⸻
+
+Agenda
+
+⸻
+
+Speakers
+
+⸻
+
+Host Profile
+
+⸻
+
+Attendees Count
+
+Example:
+
+“132 people attending”
+
+⸻
+
+📧 REGISTRATION FLOW
+
+When user clicks Register
+
+Form appears.
+
+After submission:
+
+Confirmation message.
+
+Email sent:
+
+Subject: Event Registration Confirmed
+
+Includes:
+	•	Event details
+	•	Join link
+	•	Calendar file
+
+⸻
+
+📅 CALENDAR INTEGRATION
+
+Buttons:
+
+Add to:
+
+Google Calendar
+Apple Calendar
+Outlook
+
+⸻
+
+👤 HOST DASHBOARD (EVENT MANAGEMENT)
+
+Hosts can see:
+
+Event Overview
+
+Metrics:
+	•	Registrations
+	•	Attendees
+	•	Page views
+
+⸻
+
+Attendee List
+
+Columns:
+
+Name
+Email
+Role
+Company
+
+Export CSV option.
+
+⸻
+
+Send Update
+
+Host can send message:
+
+Example:
+
+“Reminder: Event starting in 1 hour”
+
+⸻
+
+🟢 EVENT STATUS
+
+Event states:
+
+Draft
+Published
+Live
+Completed
+Cancelled
+
+⸻
+
+🔎 DISCOVER EVENTS PAGE
+
+Route:
+
+/events
+
+Filters:
+	•	Online / Offline
+	•	Industry
+	•	Region
+	•	Date
+	•	Host type
+
+Example:
+
+Events This Week
+Upcoming Demo Days
+Investor Events
+
+⸻
+
+🧠 FUTURE FEATURES
+
+Once platform grows:
+
+Add:
+	•	Ticketed events
+	•	Sponsor slots
+	•	AI event matching
+	•	Recorded event library
+	•	Startup pitch competitions
+
+⸻
+
+⚠️ IMPORTANT PLATFORM RULE
+
+Events should not become spam.
+
+Require:
+	•	profile completion before hosting
+	•	moderation for public events
+
+⸻
+
+🚀 STRATEGIC ADVANTAGE
+
+If used well, events create:
+	•	investor discovery
+	•	startup exposure
+	•	community growth
+
+Platforms like AngelList and Product Hunt lack strong event infrastructure.
+
+You can make this a major ecosystem advantage.

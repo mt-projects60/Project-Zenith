@@ -1,0 +1,52 @@
+Act as an Expert Full-Stack Next.js Developer and Product Architect.
+> PROJECT CONTEXT & VISION:
+> I am building a web application called StartID. It is a mix of a digital yellow pages and Product Hunt, specifically for startups.
+> The ultimate goal of this platform is to replace the PDF pitch deck. Founders should simply say, "Here is my StartID," and send a link.
+> The Golden Rule of StartID: The platform must feel focused entirely on capital. Everything else supports capital flow. If it feels like a generic networking site, we lose. It must feel like structured, high-end capital infrastructure (think Stripe meets AngelList).
+> USER ROLES:
+> The system must eventually support 4 distinct user types:
+>  * Startups (Capital Seekers)
+>  * Investors (Capital Providers)
+>  * Service Providers (Execution Enablers - legal, tech, hiring)
+>  * Startup Enthusiasts (Community Layer - students, scouts)
+> TECH STACK:
+>  * Framework: Next.js (App Router), TypeScript
+>  * Styling: Tailwind CSS
+>  * UI Components: Shadcn UI (essential for clean, fast, accessible components)
+>  * Icons: Lucide React
+>  * Database & Auth: Supabase (Use mock data for this initial UI build, but structure the code so it is ready to connect to a Supabase backend).
+> YOUR MISSION - PHASE 1 MVP:
+> Do not attempt to build the entire backend or all user dashboards yet. I need you to build the Core Application Shell, Navigation, the Homepage, and the Public Startup Profile page using highly realistic mock data.
+> EXECUTION STEPS:
+> Step 1: App Shell & Global Navigation
+> Create the global layout.
+>  * Top Nav: Discover, For Startups, For Investors, For Providers, Community, Pricing.
+>  * Auth Buttons: Login / Sign Up.
+>  * The design must be blazing fast, highly minimal, clean white/gray background, crisp borders.
+> Step 2: The Homepage (/)
+>  * Act like a Product Hunt homepage for startups.
+>  * Hero section: "Discover top startups. Replace your pitch deck."
+>  * Main Feed: "Featured Startups This Week" (show a list of 15-20 mock startups).
+>  * Startup Feed Card: Should include Logo, Name, One-line pitch, Industry Tag, Stage Badge, Target Raise, and an "Upvote" button.
+> Step 3: The Public Startup Profile (/startups/[slug])
+> This is the crown jewel of the app. Build a beautifully responsive layout:
+>  * Left Column (Main Content):
+>    * Hero: Logo, Startup Name, Stage Badge, Industry Tag, One-line pitch, Location, Founded Year, Website Link.
+>    * Sticky Nav Tabs: Overview, Traction, Business, Team, Funding, Documents, Pitch Event.
+>    * Overview: Problem, Solution, Why Now, TAM/SAM/SOM.
+>    * Traction Grid: MRR, ARR, Growth %, Users, CAC, Burn, Runway.
+>    * Team: Founder cards with mock photos, roles, and LinkedIn icons.
+>    * Documents: Buttons for Pitch Deck (Google Drive), Pitch Video (YouTube), and gated buttons for Financial Model/Cap Table.
+>  * Right Column (Sticky Funding Card):
+>    * Must stay sticky on desktop scroll.
+>    * Details: Round Type, Target Raise, Committed Amount, % Funded Progress Bar, Valuation, Instrument, Close Date.
+>    * Primary CTA Buttons: "Express Interest", "Bookmark", "Request Data Room".
+>    * Rule: Any data field left empty by the startup should not render on the page.
+> Step 4: The Sign-Up Routing Page (/signup)
+> Create a beautifully designed onboarding screen that asks the user to select their role before signing up:
+>  * I am a Startup (Seeking Capital)
+>  * I am an Investor (Deploying Capital)
+>  * I am a Service Provider (Helping Startups Scale)
+>  * I am an Enthusiast (Exploring the Ecosystem)
+> Write clean, modular, and well-commented code. Focus heavily on UI/UX, responsive design, and mimicking the "high-end financial tool" aesthetic. Please begin.
+> 
