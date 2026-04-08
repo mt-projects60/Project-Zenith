@@ -1,0 +1,11 @@
+packages:
+  "framer-motion": "Smooth animations for page transitions and interactive elements"
+  "clsx": "Utility for constructing className strings conditionally"
+  "tailwind-merge": "Utility for merging tailwind classes without style conflicts"
+  
+images: []
+
+notes:
+  - Mock data is used as requested since there is no backend provided for the specific data structures.
+  - The API layer is simulated using TanStack Query returning promises with setTimeout for realism.
+  - UI components assume standard Shadcn UI installations based on the directory structure provided.
